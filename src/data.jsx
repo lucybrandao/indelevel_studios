@@ -80,7 +80,7 @@ const TESTIMONIALS = [
   {
     quote: "Foi realmente muito especial — uma mudança de patamar nos nossos layouts e fronts. Posso dizer que temos uma BCR antes e depois.",
     name: "Bruno Rodrigues",
-    role: "CEO, BCR.CX e Vitacon",
+    role: "CEO, BCR.CX e 55PBX",
     initials: "BR"
   },
   {
@@ -92,8 +92,8 @@ const TESTIMONIALS = [
   },
   {
     quote: "Que coisa mais linda. Ótimo material, formato, design. Parabéns ao time — excelente.",
-    name: "Matheus Borges",
-    role: "Consultor Zendesk",
+    name: "Consultor Zendesk",
+    role: "Zendesk",
     initials: "MB"
   }
 ];
